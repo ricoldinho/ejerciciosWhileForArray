@@ -1,4 +1,4 @@
-package whileEj1;
+package whileEj;
 
 import java.util.Scanner;
 

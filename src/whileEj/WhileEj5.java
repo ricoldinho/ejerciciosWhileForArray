@@ -1,4 +1,4 @@
-package whileEj1;
+package whileEj;
 
 public class WhileEj5 {
     public static void main(String[] args) {
